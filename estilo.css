@@ -1,5 +1,6 @@
- P { 
-text-align: center;
+ .texto1 { 
+  width:500px;
+  text-align: center;
  }
 
 body {
